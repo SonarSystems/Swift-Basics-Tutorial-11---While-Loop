@@ -1,4 +1,4 @@
-Swift-Basics-Tutorial-11---While-Loop
+Swift Basics Tutorial 11 - While Loop
 =====================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/TcGBclKzOzo
